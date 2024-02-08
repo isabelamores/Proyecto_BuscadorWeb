@@ -12,7 +12,7 @@
     include 'menu.html';
 ?> 
 <br><br>
-<div class="container">
+<div class="container" id="content">
     <div class="row">
         <div class="col-md-6">
             <center><h2 >Café capuchino</h2></center><br><br>
@@ -45,7 +45,7 @@
         </div>
         <div class="col-md-6">
             <div class="imagen">
-                <img src="images/Cappuccino.png" class="img-fluid">
+                <img src="images/img1.png" class="img-fluid">
             </div>
         </div>
     </div>
@@ -82,7 +82,7 @@
         </div>
         <div class="col-md-6">
             <div class="imagen">
-            <img src="images/mocha.jpg" class="img-fluid">
+            <img src="images/img2.jpg" class="img-fluid">
             </div>
         </div>
     </div>

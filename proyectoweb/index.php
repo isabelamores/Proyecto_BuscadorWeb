@@ -33,7 +33,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div><br><br>
-<div class="container">
+<div class="container" id="content">
   <h1>Cafetería Kitty: Donde el Café y la Ternura se Mezclan</h1>
   <p style="text-align: justify;"> Ubicada en un rincón encantador de la ciudad, Cafetería Kitty es mucho más que una simple experiencia de café; es un refugio acogedor donde los amantes de los felinos y del buen café se encuentran para disfrutar de momentos especiales. Esta cafetería única combina la pasión por el café de alta calidad con un toque de ternura felina, creando un ambiente acogedor y relajado.</p>
   <h3> Catálogo de Productos:</h3>
@@ -47,7 +47,7 @@
   Cafetería Kitty va más allá de simplemente servir café; también comparte el amor por los gatos a través de eventos y recetas temáticas. Los clientes pueden participar en talleres de arte latte donde aprenden a crear adorables diseños de gatitos en la superficie de sus bebidas. Las recetas de postres también se inspiran en el mundo felino, con opciones como "Galletas con Forma de Huella de Gato" y "Pastelito de Tuna y Crema".
   </p>
   <br>
-  <img src="images/cafe.jpg" style="display: block; margin: 0 auto;">
+  <img src="images/img5.jpg" style="display: block; margin: 0 auto;">
 </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
